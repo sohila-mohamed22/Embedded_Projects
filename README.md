@@ -1,6 +1,4 @@
-Here's a README template with emojis to make it visually appealing:  
-
-```markdown
+ ```markdown
 # 🚀 Embedded Projects Collection
 
 Welcome to the **Embedded Projects** repository! 🎯 This collection includes various embedded systems projects designed to enhance your understanding of microcontrollers, real-time systems, and hardware-software interaction.
